@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. You'll use this system in order to work service tickets for customer support requests.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -12,13 +12,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (For Virtual Machine)
+- Windows Server (Remote Desktop)
+- PHP 7.3.8 with extensions like imap, intl, and opcache
+- MYSQL 5.5.62
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10
+- Windows Server</b> 
 
 <h2>List of Prerequisites</h2>
 
